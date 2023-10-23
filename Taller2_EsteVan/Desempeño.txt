@@ -1,3 +1,10 @@
 El sistema de control de versiones es una herramienta que ayuda a los 
 desarrolladores a rastrear y gestionar los cambios en el código de software
 a lo largo del tiempo.  
+
+Las utilidades principales de SCV son:
+	- Gestión de cambios
+	- Colaboración
+	- Revertir cambios
+	- Auditoria de cambios
+	- Gestión de versiones
